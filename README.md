@@ -5,5 +5,5 @@ This is the final requirement specification document for an example device that 
 ![A prototype of the dashboard UI, displaying energy production, online systems, total energy produced, as well as sensor data.](UIexample.jpg)
 A prototype of the dashboard UI, displaying energy production, online systems, total energy produced, as well as sensor data.
 
-![A deeper view into how each part of the overall system interacts and communicates together.](data flow diagram.jpg)
+![A deeper view into how each part of the overall system interacts and communicates together.](data_flow_diagram.jpg)
 A deeper view into how each part of the overall system interacts and communicates together.
