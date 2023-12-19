@@ -1,6 +1,6 @@
 # Requirements-Engineering
 
-This is the final requirement specification document for an example device that helps gather, control, and display data for energy harvesting from marine renewable energy systems using AI. Below is some of the images from the pdf.
+This is the final requirement specification document for an example device that helps gather, control, and display data for energy harvesting from marine renewable energy systems using AI. This device is for a team project based on a speculative problems. Below is some of the images from the pdf.
 
 ![A prototype of the dashboard UI, displaying energy production, online systems, total energy produced, as well as sensor data.](UIexample.jpg) \
 A prototype of the dashboard UI, displaying energy production, online systems, total energy produced, as well as sensor data.
